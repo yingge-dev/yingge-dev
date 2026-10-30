@@ -37,6 +37,5 @@ SurfaceFlinger 1035 底层锁 + 每次回读核验，不写不存在的档位。
 ### 交流
 
 - 模块问题 / 建议：[GitHub Issues](https://github.com/wy15623505520-droid/global-hfr/issues)
-- 酷安 / 邮箱：后续补充
 
 > 只做自己愿意用的东西。刷机有风险，折腾前先备份。
